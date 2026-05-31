@@ -18,8 +18,6 @@
 
 🎓 Computer Science Undergraduate at **Madras Institute of Technology (MIT), Anna University**
 
-📈 Current CGPA: **8.9/10**
-
 💡 Passionate about building software that solves real-world problems through clean architecture and efficient code.
 
 🌱 Currently exploring:
