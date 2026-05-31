@@ -178,29 +178,6 @@
 
 ---
 
-# 💡 Fun Fact
-
-```java
-class Priyadharshini {
-
-    String role = "Software Developer";
-
-    String[] skills = {
-        "Java",
-        "React",
-        "Node.js",
-        "MongoDB",
-        "DSA"
-    };
-
-    String currentGoal =
-        "Build impactful software and grow as an engineer";
-}
-```
-
----
-
-<div align="center">
 
 ### ⭐ Building • Learning • Growing
 
