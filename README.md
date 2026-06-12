@@ -17,7 +17,7 @@
 
 💡 Passionate about building software that solves real-world problems through clean architecture and efficient code.
 
-🌱 Currently exploring:
+🌱 Currently exploring
 
 * Advanced Full Stack Development
 * Scalable Backend Systems
