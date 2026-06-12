@@ -23,13 +23,9 @@
 🌱 Currently exploring:
 
 * Advanced Full Stack Development
-* System Design
-* Cloud Technologies
 * Scalable Backend Systems
 
-🏆 Infosys STEM Scholar
 
-⭐ NPTEL Elite + Topper (Programming in Java)
 
 ---
 
@@ -44,9 +40,6 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://leetcode.com/u/priyadharshini02843/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
 
 <a href="https://github.com/Priyadharshini2843">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -78,109 +71,3 @@
 ![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify)
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyadharshini2843&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadharshini2843&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Priyadharshini2843&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Priyadharshini2843&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-# 🧠 LeetCode Progress
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/priyadharshini02843?theme=dark&font=Karma&ext=contest"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyadharshini2843&theme=tokyo-night"/>
-
----
-
-# 🚀 Featured Projects
-
-## 🏨 SmartDorm
-
-### Digital Hostel Complaint Resolution Portal
-
-⚡ React.js + Node.js + Express.js + MongoDB
-
-✨ Features
-
-* Secure Authentication
-* Role-Based Dashboards
-* REST APIs
-* Complaint Workflow Automation
-* Responsive UI
-
----
-
-## 🍽️ Hotel Room Service System
-
-### Real-Time Service Management Platform
-
-⚡ React + Vite + Tailwind CSS + Supabase
-
-✨ Features
-
-* Real-Time Dashboard
-* Cloud Database Integration
-* Request Tracking
-* Responsive Design
-* Multi-user Support
-
----
-
-# 💼 Experience
-
-## Software Developer Intern — Prodigy InfoTech
-
-* Developed Java-based desktop applications
-* Built automation and utility tools
-* Implemented web scraping solutions
-* Strengthened debugging and software engineering skills
-
----
-
-# 🏅 Achievements
-
-🥇 Infosys STEM Scholar
-
-🌟 NPTEL Elite + Topper
-
-📈 Top 5% in Programming in Java
-
-🎓 MIT, Anna University
-
----
-
-
-### ⭐ Building • Learning • Growing
-
-"First, solve the problem. Then, write the code."
-
-</div>
