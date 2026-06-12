@@ -7,9 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+Student+at+MIT;Full+Stack+Developer;Java+Developer;DSA+Problem+Solver;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=Priyadharshini2843&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-
 </div>
 
 ---
