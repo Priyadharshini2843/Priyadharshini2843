@@ -61,7 +61,7 @@
 
 ### Database
 
-![My Skills](https://skillicons.dev/icons?i=mongodb,oracle)
+![My Skills](https://skillicons.dev/icons?i=mongodb,SQL*Plus)
 
 ### Tools
 
