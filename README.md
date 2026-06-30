@@ -61,10 +61,10 @@
 
 ### Database
 
-![My Skills](https://skillicons.dev/icons?i=mongodb,SQL*Plus)
+![My Skills](https://skillicons.dev/icons?i=mongodb,oracle sql)
 
 ### Tools
 
-![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify)
+![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,render)
 
 ---
