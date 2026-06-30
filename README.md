@@ -49,7 +49,7 @@
 
 ### Languages
 
-![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js)
+![My Skills](https://skillicons.dev/icons?i=java,cpp,js)
 
 ### Frontend
 
